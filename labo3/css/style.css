@@ -1,0 +1,119 @@
+body{
+    background-image: linear-gradient(45deg, #2F2325, #8E5D52);
+    background-repeat: no-repeat;
+    border: none;
+    padding: 0;
+    gap: 0;
+}
+
+a{
+
+    text-decoration: none;
+}
+
+header{
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 0 5px 0;
+
+}
+.image{
+    padding: 0 0 0 100px;
+}
+.links .btn{
+    padding: 0 0 0 30px;
+}
+ .links .btn{
+    background: none;
+    border: none;
+    font-family: 'Sarala',sans-serif;
+    cursor: pointer;
+    color: #FFF2E7;
+    font-size: 18px;
+}
+
+.line{
+    height: 1px;
+    width: 100%;
+    background-color:#FFF2E7;
+    gap: 0;
+    border: none;
+}
+.line2area{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.line2{
+    height: 1px;
+    width: 10%;
+    background-color:#FFF2E7;
+    gap: 0;
+    border: none;
+}
+
+.BalleBot_title{
+    font-family: 'Righteous',sans-serif;
+    color: #FFF2E7;
+    font-size: 64px;
+}
+
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:258px
+}
+
+main p{
+    font-family:'Sarala',sans-serif;
+    font-size: 24px;
+    color: #ECD6C4;
+}
+
+main button{
+    border-radius: 20px;
+    height: 67px;
+    width: 185px;
+    background-color: #ECD6C4;
+    font-size: 24px;
+    font-family:'Sarala',sans-serif;
+    cursor: pointer;
+}
+
+.oqueelafaz{
+    width: 100%;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.oqueelafaz h1{
+    font-family: 'Sarala',sans-serif;
+    color: #FFF2E7;
+    font-size: 24px;
+
+}
+.oqueelafaz ul li{
+    font-family: 'Sarala',sans-serif;
+    color: #FFF2E7;
+    font-size: 18px;
+    list-style: none;
+    padding-top: 50px;
+
+}
+
+footer{
+    display: flex;
+    padding: 130px 0 65px 0;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+footer img{
+    padding: 50px 0 0 0;
+}
